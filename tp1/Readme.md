@@ -1,11 +1,3 @@
-Parfait 👍
-Je te fais un **README “humanisé”**, vraiment **style étudiant**, simple, naturel, pas trop long, pas marketing, pas IA.
-Un README qu’on sent écrit **après un TP**, pas après une doc officielle.
-
-Tu peux le copier-coller tel quel 👇
-
----
-
 # TP1 – SOAP Web Service avec JAX-WS (Java)
 
 ## Présentation
